@@ -1,3 +1,10 @@
+#A00491371_Soundarya_Venkataraman
+
+Public int addition (int a, int b){
+    int c = a + b;
+    return c;
+}
+
 #A00491215
 public int subtraction (int a, int b){
   return a-b;

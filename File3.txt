@@ -1,4 +1,12 @@
+#A00491371_Soundarya_Venkataraman
+
+public int findMax(int a, int b) {
+    int max = Math.max(a, b);
+    return max;
+}
+
 #A00491215
 public double avg (int a,b){
   return (a + b) / 2.0;
 }
+
