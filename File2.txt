@@ -1,10 +1,5 @@
 #A00494129
-public int min (int a, int b){
-  if (a>b){
-    System.out.println("b is min!");
-  }
-  else{
-    System.out.println("a is min!");
-  }
+public int mod (int a, int b){
+  return a%b;
 }
 
