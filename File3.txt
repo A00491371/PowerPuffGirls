@@ -10,3 +10,7 @@ public double avg (int a,b){
   return (a + b) / 2.0;
 }
 
+#A00494129
+public int power (int a,b){
+  return math.pow(a,b);
+}
